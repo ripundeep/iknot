@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+**/*.pyc
+**/*/migrations
+db.sqlite3
+**/*/__pycache__
+media/images/*
+env/
